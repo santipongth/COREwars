@@ -1,0 +1,3 @@
+Agent2,red,200,10,10
+Agent3,blue,10,10,200
+Agent,green,10,200,10
