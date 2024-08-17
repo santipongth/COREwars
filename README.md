@@ -8,3 +8,4 @@ or
 java COREapp <settings file>
 
 A demo settings file is provided: settings_3agents.txt which loads three agents using the agent class files Agent, Agent2, and Agent3.
+Agents may reference the same Agent class file.
