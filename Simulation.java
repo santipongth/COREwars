@@ -14,8 +14,6 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
-import jdk.internal.agent.resources.agent;
-
 public class Simulation {
     private int scale;
     public World world; //maybe should be public
