@@ -658,7 +658,7 @@ public class COREapp extends JFrame {
                 // Draw the count value near the arc
                 g.setColor(Color.BLACK);
                 g.drawString(String.valueOf(count), textX, textY);
-                g.drawString(String.valueOf(i), text2X, text2Y);
+                //g.drawString(String.valueOf(i), text2X, text2Y);
                 // If count > 0, draw the GIF in the center of the arc
                 if ((count > 0) & (wSize < 36) & (c != Color.GRAY)) {
                     Image myFace = getFace(count, c);
